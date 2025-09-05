@@ -1,8 +1,6 @@
-<pre>
 {
   "users": [
-    { "key": "abc123", "expires": "2025-19-12" },
-    { "key": "xyz789", "expires": "2025-09-08" }
+    { "key": "abc123", "expires": "2025-09-10T00:00:00Z" },
+    { "key": "xyz789", "expires": "2025-09-08T00:00:00Z" }
   ]
 }
-</pre>
